@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Everything's awesome!
+          Everything's new and awesome!
         </a>
       </header>
     </div>
